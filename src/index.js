@@ -75,6 +75,6 @@ return arr.join('');
 
 }
 
-// module.exports = {
-//     decode
-// }
+module.exports = {
+    decode
+}
